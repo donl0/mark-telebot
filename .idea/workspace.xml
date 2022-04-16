@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b65438f-287b-4dfb-a827-f96ab4e65a28" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/FilmBotRemake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MarkBot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/back.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/callback_requests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/comments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/film_by_mess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/genres_year_search_logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/inline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/mainMenu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/moviesMenu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/other_backs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/page_logic_other.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/profile_requests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/search_keyboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/start_watching_callback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/top_movies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/handlers/video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/management/commands/run_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/management/commands/run_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0002_auto_20210905_1757.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0003_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0004_alter_message_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0005_message_msg_id.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0006_alter_films_rating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0007_admins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0008_alter_films_genres.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0009_alter_films_genres.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0010_alter_films_film_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0011_rename_director_directors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0012_generalhistory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0013_trendingfilms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0014_alter_users_search_way.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0015_auto_20210911_1304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0016_alter_users_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0017_alter_films_photo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0018_lastsearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0019_alter_users_search_way.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0020_auto_20210926_2057.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0021_alter_requests_verification_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/migrations/0022_auto_20210927_1444.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/admindb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/commentsDb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/director.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/filmInfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/generalHistory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/last_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/messageEditor.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/models/messageEditor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/requestsDb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/star.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/trending.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/models/userInfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/utils/dbcommands.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/utils/dbcommands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/utils/keyboards.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/utils/keyboards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/utils/loop_call.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/utils/loop_call.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/utils/states.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/utils/states.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotShell/utils/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotShell/utils/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilmBot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/markBot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilmBot/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/markBot/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilmBot/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/markBot/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilmBot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/markBot/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilmBot/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/markBot/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/videos/Hyper_Light_Drifter_2021-07-24_14-19-13.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xuxNRzDSP9Tnzi0fmYWbT42Glv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/excelFiles" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danii\Desktop\360marker_bot\new v\FilmBotRemake\excelFiles" />
+      <recent name="C:\Users\danii\Desktop\360marker_bot\new v\FilmBotRemake\BotShell" />
+      <recent name="C:\Users\danii\Desktop\film_bot_remake\FilmBotRemake\BotShell\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danii\Desktop\360marker_bot\new v\FilmBotRemake\excelFiles" />
+      <recent name="C:\Users\danii\Desktop\360marker_bot\new v\FilmBotRemake\BotShell" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b65438f-287b-4dfb-a827-f96ab4e65a28" name="Changes" comment="" />
+      <created>1631218733333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631218733333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

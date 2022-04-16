@@ -1,0 +1,9 @@
+Django==3.2.7
+aiogram==2.14.3
+aioschedule
+requests
+django-ckeditor==6.1.0
+django-richtextfield==1.6.1
+beautifulsoup4==4.10.0
+aioschedule
+openpyxl
